@@ -51,7 +51,7 @@ Debugging and CORS Fixes – 60 min
 Documentation – 20 min  
 Total Time: ~7 hours
 
-## Bonus Challenges (Optional)
+## Bonus Challenges
 
 The following optional extensions were suggested in the assignment. If completed, they allow additional depth and creativity:
 
